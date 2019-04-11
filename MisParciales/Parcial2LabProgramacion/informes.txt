@@ -1,0 +1,7 @@
+**************
+Informe Ventas
+**************
+Cantidad de Unidades vendidas Totales: 1358
+Cantidad de Ventas por Monto mayor a 10000: 194
+Cantidad de Ventas por Monto mayor a 20000: 148
+Cantidad de Unidades TV LCD vendidas : 229
